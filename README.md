@@ -1,5 +1,5 @@
-#QtWidgets Study 
+# QtWidgets Study 
 
-*Viewer1: It is a picture viewer that can dispaly some pictures.
+* Viewer-1: It is a picture viewer that can dispaly some pictures.
 
 
