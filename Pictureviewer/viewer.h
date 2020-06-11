@@ -1,3 +1,5 @@
+//Created by 2018051604100 litao in 2020 0606
+
 #ifndef VIEWER_H
 #define VIEWER_H
 #include <QImage>

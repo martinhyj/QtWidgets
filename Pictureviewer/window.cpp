@@ -1,3 +1,4 @@
+//Created by 2018051604100 litao in 2020 0606
 #include "window.h"
 #include "ui_window.h"
 
@@ -8,6 +9,7 @@ Window::Window(QWidget *parent)
     ui->setupUi(this);
     setCentralWidget(m_viewer);
     setWindowTitle("Free Viewer");
+    QMessageBox::about(this, tr("Free Viewer"),tr("提示：工具栏图标不能使用！！！"));
 }
 
 Window::~Window()
